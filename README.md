@@ -2,12 +2,12 @@
 
 <img alt="Movie Genre Classification" src=".github/banner.svg" width="100%">
 
-training, testing and visualizing the data set and using TF-IDF tokenization, vectorization and various other algorithms prescribed
+Multi-class text classification predicting film genre from plot summaries, using TF-IDF tokenisation and vectorisation across several algorithms.
 
 <br>
 
 
-![language](https://img.shields.io/badge/language-Jupyter%20Notebook-9A3412?style=flat-square&labelColor=431407) ![updated](https://img.shields.io/badge/updated-2023--10--17-7C2D12?style=flat-square&labelColor=431407)
+![language](https://img.shields.io/badge/language-Jupyter%20Notebook-9A3412?style=flat-square&labelColor=431407) ![updated](https://img.shields.io/badge/updated-2026--11--04-7C2D12?style=flat-square&labelColor=431407)
 
 </div>
 
@@ -15,7 +15,7 @@ training, testing and visualizing the data set and using TF-IDF tokenization, ve
 
 ## What this is
 
-training, testing and visualizing the data set and using TF-IDF tokenization, vectorization and various other algorithms prescribed
+A text-classification exercise assigning genres to films from their plot descriptions. The pipeline is TF-IDF tokenisation and vectorisation feeding several classifiers, compared against each other, with the training and test splits described in the accompanying data notes.
 
 <div align="center">
 
